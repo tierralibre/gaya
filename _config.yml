@@ -1,11 +1,10 @@
 # Site settings
 title: tierralibre
 tagline: And Tagline
-email: gayanvirajith@gmail.com
+email: info@tierralibre.cc
 description: > # this means to ignore newlines until "baseurl:"
-  Hi, I’m a professional UI/UX designer and web developer. 
-  I love being minimal and creative.
-baseurl: "/" # the subpath of your site, e.g. /blog/
+  Welcome to tierralibre.
+baseurl: # "/" # the subpath of your site, e.g. /blog/
 url: "http://tierralibre.github.io" # the base hostname & protocol for your site
 logourl: /assets/images/logo.png # Site logo
 author: "Angel Imaz"
@@ -16,15 +15,15 @@ theme:
   highlight_color: "#205081" #205081" # "#272935"
   # Social media links, leave blank to ignore
   social: 
-    github: gayanvirajith
-    twitter: gayanvirajith
-    facebook: gayanvirajith
-    gplus: +gayanvirajith
+    github: tierralibre
+    #twitter: 
+    #facebook: gayanvirajith
+    #gplus: +gayanvirajith
     # dribble: gayanvirajith
-    pinterest: gayanvirajith
+    #pinterest: gayanvirajith
 
   # Enable share buttons on post footer
-  show_share_buttons: true
+  #show_share_buttons: true
 
   # Show author picure, name and social links on post footer
   show_author_info: true
