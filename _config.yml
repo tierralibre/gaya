@@ -1,14 +1,14 @@
 # Site settings
-title: Your awesome title
+title: tierralibre
 tagline: And Tagline
 email: gayanvirajith@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hi, I’m a professional UI/UX designer and web developer. 
   I love being minimal and creative.
-baseurl: "/gaya" # the subpath of your site, e.g. /blog/
-url: "http://gayan.me" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://tierralibre.github.io" # the base hostname & protocol for your site
 logourl: /assets/images/logo.png # Site logo
-author: "Tom Warlker"
+author: "Angel Imaz"
 author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
 # Theme customization - please change from the defaults!
 theme:
